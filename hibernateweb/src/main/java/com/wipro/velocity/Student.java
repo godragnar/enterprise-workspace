@@ -2,7 +2,7 @@ package com.wipro.velocity;
 
 public class Student {
 
-	private int studentId;
+    private int studentId;
     private String firstName;
     private String lastName;
     private String rollNo;
